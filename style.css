@@ -1,0 +1,22 @@
+body {
+    direction: rtl;
+    font-family: 'DroidKufi';
+    text-align: center;
+}
+
+a{
+    background:#fafafa url("https://academy-discorce-s3.s3.dualstack.us-east-2.amazonaws.com/upload/original/2X/6/67b0469216f5bda93b024a6b7ba32e68880763d7.jpeg") no-repeat;
+    background-size: 40px 40px;
+    display: block;
+    width: 145px;
+    padding-left: 50px;
+    padding-right: 15px;
+    margin: 40px auto;
+    border: 1px solid #ccc;
+    line-height: 40px;
+    border-radius: 6px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: #666;
+}
